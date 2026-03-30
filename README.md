@@ -1,10 +1,18 @@
 # Phonebook
 
-A phonebook app for adding, deleting, and searching contacts by name and phone number. Includes input validation for empty or invalid inputs. Originally created as part of the course [Full Stack Open](https://fullstackopen.com/), with a further containerized deployment created as part of the course [DevOps with Docker](https://courses.mooc.fi/org/uh-cs/courses/devops-with-docker-spring-2026).
+A phonebook application for adding, deleting, and searching contacts by name and phone number. Includes input validation for empty or invalid inputs. Originally created as part of the course [Full Stack Open](https://fullstackopen.com/), with a further containerized deployment created as part of the course [DevOps with Docker](https://courses.mooc.fi/org/uh-cs/courses/devops-with-docker-spring-2026).
 
-## Demo
+## Technologies
 
-A live version is available at <https://phonebook-e81c.onrender.com>
+- Frontend: [React](https://react.dev/), [Vite](https://vite.dev/)
+- Backend: [Node.js](https://nodejs.org/en), [Express](https://expressjs.com/)
+- Database on [MongoDB Atlas](https://www.mongodb.com/products/platform)
+- Containerization with [Docker](https://www.docker.com/)
+- Demo website on [Render](https://render.com/)
+
+## Demo website
+
+A live version of the application is available at: <https://phonebook-e81c.onrender.com>.
 
 ## Prerequisites
 
