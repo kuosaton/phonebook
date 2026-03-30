@@ -1,5 +1,7 @@
 # Phonebook
 
+[![Build and push Docker image to Docker Hub](https://github.com/kuosaton/phonebook/actions/workflows/docker-build-push.yml/badge.svg)](https://github.com/kuosaton/phonebook/actions/workflows/docker-build-push.yml)
+
 A phonebook application for adding, deleting, and searching contacts by name and phone number. Includes input validation for empty or invalid inputs. Originally created as part of the course [Full Stack Open](https://fullstackopen.com/), with a further containerized deployment created as part of the course [DevOps with Docker](https://courses.mooc.fi/org/uh-cs/courses/devops-with-docker-spring-2026).
 
 ## Technologies
