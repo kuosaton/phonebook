@@ -16,10 +16,10 @@ A live version is available at <https://phonebook-e81c.onrender.com>
 Clone the repository to a chosen location:
 
 ```bash
-git clone https://github.com/kuosaton/fullstackcourse.git
+git clone https://github.com/kuosaton/phonebook.git
 ```
 
-Navigate to the phonebook root directory (`fullstackcourse/phonebook`) and build the Docker image:
+Navigate to the `phonebook` directory and build the Docker image:
 
 ```bash
 docker build -t phonebook .
