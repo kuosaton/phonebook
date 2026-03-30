@@ -1,4 +1,4 @@
-FROM node:24-alpine AS build-stage
+FROM node:25-alpine AS build-stage
 
 WORKDIR /frontend
 
@@ -14,7 +14,7 @@ COPY frontend ./
 
 RUN npm run build
 
-FROM node:24-alpine AS production-stage
+FROM node:25-alpine AS production-stage
 
 WORKDIR /backend
 
