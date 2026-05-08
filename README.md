@@ -12,7 +12,7 @@ A phonebook application for adding, deleting, and searching contacts by name and
 
 ## Demo website
 
-A live version of the application is available at: <https://phonebook-e81c.onrender.com>.
+A live version of the application is available on [phonebook.tonykuosa.com](https://phonebook.tonykuosa.com/).
 
 ## Prerequisites
 
